@@ -1,4 +1,4 @@
-Olá! Seja bem vindo(a) ao meu Github!
+### Olá! Seja bem vindo(a) ao meu Github!
 
 👨‍🎓 Desenvolvedor Full Stack </br>
 🧔 Ele/Dele </br>
@@ -10,7 +10,7 @@ Olá! Seja bem vindo(a) ao meu Github!
 </div>
 
   ----
-
+  ### Estatísticas:
 <div align="center">
   <a href="https://github.com/Aristaque">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Aristaque&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,7 @@ Olá! Seja bem vindo(a) ao meu Github!
   
   ----
  
-  ### Skill Set:
+  ### Conteúdos:
   
   <div align="center"><br>
     
