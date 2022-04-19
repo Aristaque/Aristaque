@@ -31,6 +31,6 @@
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="46" width="65" align="center"> 
     <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="46" width="65" align="center"> 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" height="46" width="65" align="center" />
-  
-  </div>
   ----
+  </div>
+ 
