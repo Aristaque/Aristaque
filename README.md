@@ -2,7 +2,6 @@
 
 👨‍🎓 Desenvolvedor Full Stack </br>
 🧔 Ele/Dele </br>
-🚩 Franco da Rocha-SP BR </br>
 📩 Contato ⏬
 
   <div>
@@ -17,20 +16,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aristaque&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-  ----
- 
-  ### Conteúdos:
-  
-  <div align="center"><br>
-    
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="46" width="65" align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Git" height="46" width="65" align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Git" height="46" width="65" align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Git" height="46" width="65" align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" alt="Git" height="46" width="65" align="center">
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="46" width="65" align="center"> 
-    <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="46" width="65" align="center"> 
-   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" height="46" width="65" align="center" />
- 
-  </div>
+</div>
  
