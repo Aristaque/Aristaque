@@ -1,8 +1,15 @@
-<h1 align="center">Olá, eu sou o Jeferson 👋</h1>
+<h1 align="center">Jeferson Aristaque</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack</b> · Automação · Dados · Produtos digitais<br/>
-  Estudante de Análise e Desenvolvimento de Sistemas · Franco da Rocha – SP 🇧🇷
+  <b>Desenvolvedor Full Stack que vem da operação logística.</b><br/>
+  Eu conheço o problema de dentro do chão de operação e sei transformar em sistema.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
 <p align="center">
@@ -10,41 +17,38 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://rodada-motorista.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Rodada-1f6feb?style=for-the-badge&logo=netlify&logoColor=white" alt="Rodada"/>
+    <img src="https://img.shields.io/badge/-Ver%20produto%20no%20ar-1f6feb?style=for-the-badge&logo=netlify&logoColor=white" alt="Produto no ar"/>
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 🎯 O que me diferencia
 
-- 🚀 Construo produtos digitais do zero: front, back-end, banco de dados e pagamento.
-- 💡 Gosto de projetos **bootstrapped**: infraestrutura em free tier, foco em entregar valor rápido.
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 🏭 **Vivência real de operação:** atuo em centro logístico de grande e-commerce (Shopee, antes Mercado Livre), onde produtividade, prazo e qualidade são medidos todo dia.
+- 🛠️ **Construo o que uso:** parto da dor real da operação para chegar na solução.
+- 🚢 **Entrego produto de ponta a ponta:** do banco de dados ao login, da cobrança ao deploy, com produto no ar e recebendo pagamento.
+- 💸 **Mentalidade de custo zero:** valido ideias em free tier antes de gastar um centavo.
 
 ---
 
-### 🛠️ Projetos
+### 🚀 Projetos em destaque
 
-#### 🚗 [Rodada](https://rodada-motorista.netlify.app) · SaaS para motoristas de aplicativo
-App de controle financeiro para motoristas: ganhos, gastos e lucro real por dia. Saiu de uma planilha e virou produto, com **cadastro e login**, **planos de assinatura** e **pagamento via Pix**.
-`Supabase` `Netlify` `Mercado Pago` `JavaScript`
+| Projeto | O que mostra | Stack |
+|---|---|---|
+| 🚗 **[Rodada](https://rodada-motorista.netlify.app)** | Produto SaaS no ar, com autenticação e assinatura via Pix | `Supabase` `Netlify` `Mercado Pago` |
+| 🤖 **Assistente com IA** | Aplicação de LLM em um caso de negócio real | `Python` `IA` |
+| 📈 **Pipeline de ML** | Coleta, tratamento de dados e modelos de classificação | `Python` `pandas` `scikit-learn` |
 
-#### 📊 PROD_MTB · Painel de produtividade operacional
-Painel em Google Sheets + Apps Script usado para acompanhar a produtividade por líder e por data. Cruza relatórios operacionais para calcular **ociosidade por operador, do time e total**, com filtros rápidos e intuitivos.
-`Google Apps Script` `Google Sheets` `Automação`
+> 🔒 Parte dos meus projetos é privada ou está em desenvolvimento. Posso apresentá-los em conversa.
 
-#### 🏠 imob-bot-ia · Assistente com IA para o mercado imobiliário
-Bot com inteligência artificial para atendimento e qualificação de clientes de imobiliárias, estruturado com padrão profissional para virar produto.
-`Python` `IA / LLM`
+---
 
-#### 👗 Micro-SaaS de prospecção para o atacado de moda _(em desenvolvimento)_
-Plataforma B2B para representantes e fábricas prospectarem lojistas: lista de lojas, cold email, redirecionamento para o WhatsApp do vendedor e CRM em Kanban.
-`Em construção` `Free tier` `B2B`
+### 🧭 Em foco agora
 
-#### ⚽ 77stats · Pipeline de dados e Machine Learning
-Pipeline em Python que coleta dados de ~34 ligas de futebol, limpa, gera features e treina modelos de classificação, com painel web para visualizar os resultados.
-`Python` `Playwright` `pandas` `scikit-learn`
+- 📚 Graduação em Análise e Desenvolvimento de Sistemas (Estácio)
+- 🧱 Evoluindo meus produtos digitais para escala, com boas práticas de engenharia
+- 🔎 Buscando oportunidade em **desenvolvimento, automação/dados ou análise operacional**
 
 ---
 
@@ -68,6 +72,5 @@ Pipeline em Python que coleta dados de ~34 ligas de futebol, limpa, gera feature
 ---
 
 <p align="center">
-  💬 Aberto a conversas sobre oportunidades, automação e produtos digitais.<br/>
-  Me chama no <a href="https://www.linkedin.com/in/jeferson-aristaque-3b972922b/">LinkedIn</a>.
+  💬 Vamos conversar? Me chama no <a href="https://www.linkedin.com/in/jeferson-aristaque-3b972922b/">LinkedIn</a>.
 </p>
