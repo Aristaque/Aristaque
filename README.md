@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:1f6feb&height=170&section=header&text=Jeferson%20Aristaque&fontSize=40&fontColor=ffffff&fontAlignY=40" alt="Jeferson Aristaque"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=1F6FEB&center=true&vCenter=true&width=500&lines=Python+%C2%B7+JavaScript+%C2%B7+PostgreSQL" alt="Python, JavaScript, PostgreSQL"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=1F6FEB&center=true&vCenter=true&width=500&lines=Java+%C2%B7+Spring+Boot+%C2%B7+Python+%C2%B7+JavaScript" alt="Java, Spring Boot, Python, JavaScript"/>
 
 <br/>
 
@@ -28,7 +28,7 @@ Aprendo construindo: tiro a ideia do papel e coloco no ar.
   <tr>
     <td width="33%" valign="top">
       <h4>🚗 Rodada</h4>
-      <p>Controle financeiro para motorista de aplicativo. Saiu de uma planilha e virou app com login, planos de assinatura e Pix.</p>
+      <p>Controle financeiro para motorista de aplicativo. Saiu de uma planilha e virou app com login, planos de assinatura e Pix. Projeto privado.</p>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
     </td>
@@ -49,10 +49,18 @@ Aprendo construindo: tiro a ideia do papel e coloco no ar.
 
 ---
 
+### Projetos públicos
+
+- [**ProjetoHopeMarket**](https://github.com/Aristaque/ProjetoHopeMarket): Projeto Integrador da Generation Brasil, turma 45.
+- [**Blog-Angular**](https://github.com/Aristaque/Blog-Angular): front-end de blog em TypeScript com Angular.
+- [**BlogPessoal**](https://github.com/Aristaque/BlogPessoal): back-end do blog em Java com Spring Boot.
+
+---
+
 ### Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,supabase,netlify,git,github,vscode&perline=10" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,ts,angular,python,js,html,css,bootstrap,postgres,supabase,netlify,git,github&perline=8" alt="Tecnologias"/>
 </p>
 
 ---
