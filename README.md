@@ -1,58 +1,55 @@
-<h1 align="center">Jeferson Aristaque</h1>
+<div align="center">
 
-<p align="center">
-  <b>Desenvolvedor Full Stack que vem da operação logística.</b><br/>
-  Eu conheço o problema de dentro do chão de operação e sei transformar em sistema.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:1f6feb&height=170&section=header&text=Jeferson%20Aristaque&fontSize=40&fontColor=ffffff&fontAlignY=40" alt="Jeferson Aristaque"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=1F6FEB&center=true&vCenter=true&width=500&lines=Python+%C2%B7+JavaScript+%C2%B7+PostgreSQL" alt="Python, JavaScript, PostgreSQL"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jeferson-aristaque-3b972922b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://rodada-motorista.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Ver%20produto%20no%20ar-1f6feb?style=for-the-badge&logo=netlify&logoColor=white" alt="Produto no ar"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/jeferson-aristaque-3b972922b/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
 
 ---
 
-### 🎯 O que me diferencia
+### Sobre mim
 
-- 🏭 **Vivência real de operação:** atuo em centro logístico de grande e-commerce (Shopee, antes Mercado Livre), onde produtividade, prazo e qualidade são medidos todo dia.
-- 🛠️ **Construo o que uso:** parto da dor real da operação para chegar na solução.
-- 🚢 **Entrego produto de ponta a ponta:** do banco de dados ao login, da cobrança ao deploy, com produto no ar e recebendo pagamento.
-- 💸 **Mentalidade de custo zero:** valido ideias em free tier antes de gastar um centavo.
+Sou de Franco da Rocha, SP. Vim da área administrativa e de operações e migrei para tecnologia: faço Análise e Desenvolvimento de Sistemas e fiz o curso de Desenvolvimento Web na Generation Brasil.
 
----
-
-### 🚀 Projetos em destaque
-
-| Projeto | O que mostra | Stack |
-|---|---|---|
-| 🚗 **[Rodada](https://rodada-motorista.netlify.app)** | Produto SaaS no ar, com autenticação e assinatura via Pix | `Supabase` `Netlify` `Mercado Pago` |
-| 🤖 **Assistente com IA** | Aplicação de LLM em um caso de negócio real | `Python` `IA` |
-| 📈 **Pipeline de ML** | Coleta, tratamento de dados e modelos de classificação | `Python` `pandas` `scikit-learn` |
-
-> 🔒 Parte dos meus projetos é privada ou está em desenvolvimento. Posso apresentá-los em conversa.
+Aprendo construindo: tiro a ideia do papel e coloco no ar.
 
 ---
 
-### 🧭 Em foco agora
+### Projetos
 
-- 📚 Graduação em Análise e Desenvolvimento de Sistemas (Estácio)
-- 🧱 Evoluindo meus produtos digitais para escala, com boas práticas de engenharia
-- 🔎 Buscando oportunidade em **desenvolvimento, automação/dados ou análise operacional**
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🚗 Rodada</h4>
+      <p>Controle financeiro para motorista de aplicativo. Saiu de uma planilha e virou app com login, planos de assinatura e Pix.</p>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📈 Pipeline de ML</h4>
+      <p>Da raspagem de 34 ligas de futebol ao modelo, em etapas separadas. Projeto privado.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤖 imob-bot-ia</h4>
+      <p>IA aplicada ao mercado imobiliário. Projeto privado.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/IA-8250DF?style=flat-square" alt="IA"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧰 Tecnologias
+### Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,supabase,netlify,git,github,vscode&perline=10" alt="Tecnologias"/>
@@ -60,7 +57,7 @@
 
 ---
 
-### 📈 Estatísticas
+### Estatísticas
 
 <div align="center">
   <a href="https://github.com/Aristaque">
@@ -69,8 +66,4 @@
   </a>
 </div>
 
----
-
-<p align="center">
-  💬 Vamos conversar? Me chama no <a href="https://www.linkedin.com/in/jeferson-aristaque-3b972922b/">LinkedIn</a>.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0b3d91&height=80&section=footer" width="100%" alt=""/>
