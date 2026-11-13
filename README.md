@@ -1,6 +1,6 @@
 # Jeferson Aristaque
 
-**Desenvolvedor Full Stack em formação** · Java, Spring Boot e Python
+**Desenvolvedor Full Stack** · Java, Spring Boot e Python
 
 <a href="https://www.linkedin.com/in/jeferson-aristaque-3b972922b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Franco%20da%20Rocha%2C%20SP-30363d?style=flat-square&logo=googlemaps&logoColor=white" alt="Franco da Rocha, SP"/>
